@@ -1,5 +1,5 @@
 # DMNS: Diffusion-based Negative Sampling on Graphs for Link Prediction
-We provide the code (in pytorch) and datasets for our submission: Diffusion-based Negative Sampling on Graphs for Link Prediction.
+We provide the code (in pytorch) and datasets for our paper: "Diffusion-based Negative Sampling on Graphs for Link Prediction" (DMNS), which has been accepted in TheWebConf 2024.
 
 ## 1. Desription
 The repository is organised as follows:
@@ -18,3 +18,5 @@ To install required packages
 For reproducibility, please run these commands regarding to specific dataset:
 
 - python main_cond.py --dataset=Cora/Citeseer/CS/Actor
+
+## 4. Citation
