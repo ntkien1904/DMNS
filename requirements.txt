@@ -1,0 +1,7 @@
+torch==1.13.0
+torch_geometric==2.3
+numpy==1.21.4
+scipy
+networkx
+sklearn
+ordered_set
